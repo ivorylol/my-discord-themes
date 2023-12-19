@@ -1,0 +1,50 @@
+/**
+ * @name IGORRRR
+ * @author iovryyryryryryr
+ * @version tomboys
+ * @description tyler fanboy did it
+ * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css
+ * @invite Jx3TjNS
+ * @donate look for it 
+ * @patreon i dont got it no more
+ * @website https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground
+ * @authorId heyaedasd
+ * @BDEditor adsadsadsasd
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+
+:root {
+  --background: url('https://i.imgur.com/kfF93OC.jpg');
+  --backgroundsize: auto;
+  --backgroundposition: center;
+  --backgroundblur: 0px;
+  --popout: var(--background);
+  --popoutsize: var(--backgroundsize);
+  --backgroundposition: center;
+  --popoutblur: 0px;
+  --transparencycolor: 247,180,180;
+  --accentcolor: 247,180,198;
+  --backdrop: rgb(6,5,5,0.72);
+  --textshadow: transparent;
+  --transparencyalpha: 0;
+  --messagetransparency: 0.42;
+  --guildchanneltransparency: 0.15;
+  --chatinputtransparency: 0.04;
+  --memberlisttransparency: 0.44;
+  --font: Whitney;
+  --textbrightest: 0,171,255;
+  --textbrighter: 255,0,0;
+  --textbright: 45,128,223;
+  --textdark: 0,0,0;
+  --textdarker: 255,9,242;
+  --textdarkest: 254,144,28;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+}
+
+/* Any custom CSS below here */
+
+
